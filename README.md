@@ -1,4 +1,4 @@
-# Coding Samples
+# README
 This repository includes code scripts and the workflow used in my honors thesis titled The _Impact of Corporate Profits on GDI Estimates: Forecasting and Data Revisions_.
 
 ## 1. Variables & Naming Convention
