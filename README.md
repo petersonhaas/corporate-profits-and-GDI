@@ -1,5 +1,5 @@
 # Coding Samples
-This repository includes code examples in **Stata**, **R**, and **Python** used in my honors thesis titled "The Impact of Corporate Profits on GDI Estimates: Forecasting and Data Revisions."
+This repository includes code scripts and the workflow used in my honors thesis titled The _Impact of Corporate Profits on GDI Estimates: Forecasting and Data Revisions_.
 
 ## 1. Variables & Naming Convention
 
